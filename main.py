@@ -5,7 +5,7 @@ import os
 from PIL import Image
 import seaborn as sns
 import matplotlib.pyplot as plt
-import cv2
+from opencv_python import cv2
 import keras
 from keras.models import Sequential
 from keras.layers import Conv2D
