@@ -6,6 +6,7 @@ from PIL import Image
 import seaborn as sns
 import matplotlib.pyplot as plt
 import keras
+import cv2
 from keras.models import Sequential
 from keras.layers import Conv2D
 from keras.layers import MaxPool2D
